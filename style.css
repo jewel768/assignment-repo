@@ -157,9 +157,9 @@ a {
 }
 
 .form {
-    font-family: 0 1;
+    font-family: 0;
     margin: 16px 0 0 170px;
-    git padding: 25px;
+    padding: 25px;
     display: inline-flex;
 }
 
